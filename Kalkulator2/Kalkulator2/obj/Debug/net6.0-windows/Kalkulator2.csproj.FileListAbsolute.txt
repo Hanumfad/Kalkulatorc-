@@ -1,0 +1,17 @@
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\bin\Debug\net6.0-windows\Kalkulator2.exe
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\bin\Debug\net6.0-windows\Kalkulator2.deps.json
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\bin\Debug\net6.0-windows\Kalkulator2.runtimeconfig.json
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\bin\Debug\net6.0-windows\Kalkulator2.dll
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\bin\Debug\net6.0-windows\Kalkulator2.pdb
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\obj\Debug\net6.0-windows\Kalkulator2.csproj.AssemblyReference.cache
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\obj\Debug\net6.0-windows\Kalkulator2.Hanum.resources
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\obj\Debug\net6.0-windows\Kalkulator2.csproj.GenerateResource.cache
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\obj\Debug\net6.0-windows\Kalkulator2.GeneratedMSBuildEditorConfig.editorconfig
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\obj\Debug\net6.0-windows\Kalkulator2.AssemblyInfoInputs.cache
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\obj\Debug\net6.0-windows\Kalkulator2.AssemblyInfo.cs
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\obj\Debug\net6.0-windows\Kalkulator2.csproj.CoreCompileInputs.cache
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\obj\Debug\net6.0-windows\Kalkulator2.dll
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\obj\Debug\net6.0-windows\refint\Kalkulator2.dll
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\obj\Debug\net6.0-windows\Kalkulator2.pdb
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\obj\Debug\net6.0-windows\Kalkulator2.genruntimeconfig.cache
+E:\11 PPLG 5\PBT\Kalkulator2\Kalkulator2\obj\Debug\net6.0-windows\ref\Kalkulator2.dll
